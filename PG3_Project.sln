@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-1_list", "2-1_list\2-1_l
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-1_Yamatesen", "02-1_Yamatesen\02-1_Yamatesen.vcxproj", "{778C8B6D-4130-4825-BCF8-F83134BB930D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03-1_Singleton", "03-1_Singleton\03-1_Singleton.vcxproj", "{16813076-D24F-4580-80F0-521E4A167E93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{778C8B6D-4130-4825-BCF8-F83134BB930D}.Release|x64.Build.0 = Release|x64
 		{778C8B6D-4130-4825-BCF8-F83134BB930D}.Release|x86.ActiveCfg = Release|Win32
 		{778C8B6D-4130-4825-BCF8-F83134BB930D}.Release|x86.Build.0 = Release|Win32
+		{16813076-D24F-4580-80F0-521E4A167E93}.Debug|x64.ActiveCfg = Debug|x64
+		{16813076-D24F-4580-80F0-521E4A167E93}.Debug|x64.Build.0 = Debug|x64
+		{16813076-D24F-4580-80F0-521E4A167E93}.Debug|x86.ActiveCfg = Debug|Win32
+		{16813076-D24F-4580-80F0-521E4A167E93}.Debug|x86.Build.0 = Debug|Win32
+		{16813076-D24F-4580-80F0-521E4A167E93}.Release|x64.ActiveCfg = Release|x64
+		{16813076-D24F-4580-80F0-521E4A167E93}.Release|x64.Build.0 = Release|x64
+		{16813076-D24F-4580-80F0-521E4A167E93}.Release|x86.ActiveCfg = Release|Win32
+		{16813076-D24F-4580-80F0-521E4A167E93}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
